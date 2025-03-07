@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU2.AP.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 07/03/2025
 
 Proyecto: 
 
@@ -22,8 +22,6 @@ Logotipo:
 Miembros:
  * :bust_in_silhouette:  Pablo Fernández Gallardo     :octocat:     pabloferugr
  * :bust_in_silhouette:  Ana Graciani Donaire     :octocat:     agd03
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
