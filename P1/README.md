@@ -24,3 +24,7 @@ El estudio incluirá:
 - Encuestas, donde valorarán aspectos como navegación, accesibilidad y proceso de reserva.
 
 El objetivo es identificar mejoras para que la web refleje mejor la experiencia real y optimizar la usabilidad.
+
+
+## Competitor Analysis
+
