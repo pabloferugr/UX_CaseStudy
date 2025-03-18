@@ -56,7 +56,7 @@ Granada Cooking ofrece talleres de cocina para turistas y locales en Granada. Si
 ![Método UX](img/Persona.png) 
 -----
 
-![Usuario #1](img/Persona1.png)
+![Usuario #1](P1/Persona1.png)
 
 **Marta González Carrasco** es una diseñadora gráfica freelance de 34 años, apasionada por el arte, la gastronomía y los viajes culturales. Busca experiencias que combinen creatividad y cocina, disfrutando de descubrir nuevas culturas a través de la comida. Comparte su aprendizaje en redes y se inspira en cada experiencia para su trabajo artístico.
 
