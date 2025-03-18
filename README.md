@@ -42,7 +42,7 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Granada Cooking ofrece talleres de cocina para turistas y locales en Granada. Sin experiencia previa en este tipo de actividades, evaluaremos la web desde la perspectiva de nuevos usuarios. Comenzaremos con una visita al establecimiento para comprobar su accesibilidad y la precisión de la información online. Luego, realizaremos pruebas de usuario, entrevistas y encuestas para analizar navegación, accesibilidad y proceso de reserva. Nuestro objetivo es detectar mejoras que optimicen la usabilidad y alineen mejor la web con la experiencia real.
 
 
 ### 1.b Competitive Analysis
