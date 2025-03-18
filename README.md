@@ -49,7 +49,7 @@ Granada Cooking ofrece talleres de cocina para turistas y locales en Granada. Si
 ![Método UX](img/Competitive.png) 
 -----
 
-Granada Cooking se sitúa en un punto intermedio entre sus competidores: ofrece una navegación aceptable y asistencia en tiempo real, pero carece de opciones como servicio de newsletter y soporte multilingüe, lo que podría dificultar su accesibilidad para un público más amplio. Para mejorar su competitividad, debería optimizar la visualización del calendario, ampliar la disponibilidad de idiomas y reforzar su comunicación con los usuarios a través de un sistema de newsletter.
+**Granada Cooking** se sitúa en un punto intermedio entre sus competidores: ofrece una navegación aceptable y asistencia en tiempo real, pero carece de opciones como servicio de newsletter y soporte multilingüe, lo que podría dificultar su accesibilidad para un público más amplio. Para mejorar su competitividad, debería optimizar la visualización del calendario, ampliar la disponibilidad de idiomas y reforzar su comunicación con los usuarios a través de un sistema de newsletter.
 
 
 ### 1.c Personas
@@ -57,7 +57,8 @@ Granada Cooking se sitúa en un punto intermedio entre sus competidores: ofrece 
 -----
 
 ![Usuario #1](img/Persona1.png)
-Marta González Carrasco es una diseñadora gráfica freelance de 34 años, apasionada por el arte, la gastronomía y los viajes culturales. Busca experiencias que combinen creatividad y cocina, disfrutando de descubrir nuevas culturas a través de la comida. Comparte su aprendizaje en redes y se inspira en cada experiencia para su trabajo artístico.
+
+**Marta González Carrasco** es una diseñadora gráfica freelance de 34 años, apasionada por el arte, la gastronomía y los viajes culturales. Busca experiencias que combinen creatividad y cocina, disfrutando de descubrir nuevas culturas a través de la comida. Comparte su aprendizaje en redes y se inspira en cada experiencia para su trabajo artístico.
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
@@ -65,12 +66,14 @@ Marta González Carrasco es una diseñadora gráfica freelance de 34 años, apas
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-![User Journey Map #1](img/JourneyMap1.png)
-Marta busca un curso de cocina en Granada y encuentra la web de Granada Cooking, que le parece atractiva. Pero después se da cuenta de que los talleres en la página de inicio están desactualizados. Al intentar reservar uno actual, el listado no tiene imágenes, haciéndolo menos atractivo. Cuando intenta reservar el sistema no muestra fechas disponibles ni explica por qué no puede hacerlo. Frustrada, abandona la web y busca otra opción.
+
+[Ver User Jouney Map #1 (Marta)](P1/Persona&UserJourneyMap1.pdf)
+
+Marta busca un curso de cocina en Granada y encuentra la web de **Granada Cooking**, que le parece atractiva. Pero después se da cuenta de que los talleres en la página de inicio están desactualizados. Al intentar reservar uno actual, el listado no tiene imágenes, haciéndolo menos atractivo. Cuando intenta reservar el sistema no muestra fechas disponibles ni explica por qué no puede hacerlo. Frustrada, abandona la web y busca otra opción.
 
 Este caso muestra cómo una web con buen diseño inicial puede perder usuarios por problemas de usabilidad y contenido desactualizado. La falta de información clara sobre la disponibilidad de talleres y la ausencia de imágenes reducen el atractivo y generan confusión. Esto es común en plataformas que no priorizan la actualización de su contenido ni optimizan su sistema de reservas.
 
-Los principales problemas detectados son:
+Los principales **problemas** detectados son:
 
 - Información desactualizada, que genera desconfianza.
 
@@ -78,7 +81,7 @@ Los principales problemas detectados son:
 
 - Sistema de reservas poco claro, sin indicaciones sobre disponibilidad ni errores.
 
-Para mejorar, la web debería:
+Por lo que proponemos las siguientes **mejoras**:
 
 - Actualizar la información periódicamente.
 
