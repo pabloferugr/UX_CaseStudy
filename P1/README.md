@@ -28,3 +28,26 @@ El objetivo es identificar mejoras para que la web refleje mejor la experiencia 
 
 ## Competitor Analysis
 
+[Análisis de competencia](CompetitorAnalysis.pdf)
+
+Granada Cooking se sitúa en un punto intermedio dentro de su sector, ofreciendo una propuesta atractiva pero con ciertas limitaciones en comparación con sus competidores. Destaca por su asistencia en tiempo real y la posibilidad de realizar reservas online, lo que la hace accesible y funcional en términos de interacción con los usuarios. Sin embargo, presenta debilidades notables, como la falta de soporte en varios idiomas, lo que puede limitar su alcance a un público más amplio, y la ausencia de un servicio de newsletter que ayude a mantener el interés de sus clientes.
+
+En comparación con Taller Andaluz de Cocina, Granada Cooking ofrece una navegación aceptable y asistencia en tiempo real, lo que facilita la interacción con los usuarios. Sin embargo, Taller Andaluz de Cocina proporciona una experiencia más estructurada y en dos idiomas (español e inglés), lo que le da ventaja en accesibilidad para turistas y público extranjero. Además, la navegación en su web es más clara, aunque su diseño sigue siendo algo complejo​CompetitorAnalysis.
+
+Por otro lado, Food Romance Company sobresale en facilidad de uso y accesibilidad. Su navegación es la más intuitiva de las tres y su proceso de reserva está mejor optimizado. También ofrece una mayor variedad de cursos y la información está mejor organizada, lo que facilita la toma de decisiones de los usuarios. Granada Cooking, en cambio, tiene problemas con la visualización del calendario, que requiere demasiado desplazamiento y no siempre muestra fechas disponibles de forma clara​CompetitorAnalysis.
+
+Para mejorar su competitividad, Granada Cooking debería trabajar en tres aspectos clave:
+
+- Hacer su web más intuitiva, especialmente el sistema de reservas, que actualmente puede resultar confuso.
+
+- Mejorar la accesibilidad, incluyendo más idiomas para atraer a clientes internacionales.
+
+- Fortalecer la relación con los usuarios, por ejemplo, con una newsletter que informe sobre nuevos cursos y eventos.
+
+En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilidad y comunicación para estar al nivel de sus competidores.
+
+## Persona & Journey Map
+
+- [Persona & User Journey Map #1](Persona&UserJourneyMap#1.pdf)
+
+- [Persona & User Journey Map #2]()
