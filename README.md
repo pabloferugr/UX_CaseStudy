@@ -49,12 +49,15 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Granada Cooking se sitúa en un punto intermedio entre sus competidores: ofrece una navegación aceptable y asistencia en tiempo real, pero carece de opciones como servicio de newsletter y soporte multilingüe, lo que podría dificultar su accesibilidad para un público más amplio. Para mejorar su competitividad, debería optimizar la visualización del calendario, ampliar la disponibilidad de idiomas y reforzar su comunicación con los usuarios a través de un sistema de newsletter.
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+
+![Usuario #1](img/Persona1.png)
+Marta González Carrasco es una diseñadora gráfica freelance de 34 años, apasionada por el arte, la gastronomía y los viajes culturales. Busca experiencias que combinen creatividad y cocina, disfrutando de descubrir nuevas culturas a través de la comida. Comparte su aprendizaje en redes y se inspira en cada experiencia para su trabajo artístico.
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
