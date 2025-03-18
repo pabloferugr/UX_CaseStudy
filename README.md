@@ -65,6 +65,28 @@ Marta González Carrasco es una diseñadora gráfica freelance de 34 años, apas
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+![User Journey Map #1](img/JourneyMap1.png)
+Marta busca un curso de cocina en Granada y encuentra la web de Granada Cooking, que le parece atractiva. Pero después se da cuenta de que los talleres en la página de inicio están desactualizados. Al intentar reservar uno actual, el listado no tiene imágenes, haciéndolo menos atractivo. Cuando intenta reservar el sistema no muestra fechas disponibles ni explica por qué no puede hacerlo. Frustrada, abandona la web y busca otra opción.
+
+Este caso muestra cómo una web con buen diseño inicial puede perder usuarios por problemas de usabilidad y contenido desactualizado. La falta de información clara sobre la disponibilidad de talleres y la ausencia de imágenes reducen el atractivo y generan confusión. Esto es común en plataformas que no priorizan la actualización de su contenido ni optimizan su sistema de reservas.
+
+Los principales problemas detectados son:
+
+- Información desactualizada, que genera desconfianza.
+
+- Falta de imágenes, lo que hace menos atractiva la experiencia de exploración.
+
+- Sistema de reservas poco claro, sin indicaciones sobre disponibilidad ni errores.
+
+Para mejorar, la web debería:
+
+- Actualizar la información periódicamente.
+
+- Añadir imágenes atractivas en los listados de talleres.
+
+- Optimizar el sistema de reservas, mostrando disponibilidad y mensajes claros.
+
+En general, Granada Cooking ofrece una propuesta interesante, pero necesita mejorar su usabilidad y gestión de contenido para evitar la pérdida de clientes potenciales.
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
