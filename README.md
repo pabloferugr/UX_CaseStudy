@@ -40,7 +40,17 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-Granada Cooking ofrece talleres de cocina para turistas y locales en Granada. Sin experiencia previa en este tipo de actividades, evaluaremos la web desde la perspectiva de nuevos usuarios. Comenzaremos con una visita al establecimiento para comprobar su accesibilidad y la precisión de la información online. Luego, realizaremos pruebas de usuario, entrevistas y encuestas para analizar navegación, accesibilidad y proceso de reserva. Nuestro objetivo es detectar mejoras que optimicen la usabilidad y alineen mejor la web con la experiencia real.
+[Granada Cooking](https://granadacooking.com/) ofrece talleres de cocina en Granada, dirigidos a turistas y locales interesados en experiencias gastronómicas. No tenemos experiencia previa en este tipo de actividades, por lo que analizaremos la web desde la perspectiva de nuevos usuarios.
+
+Comenzaremos con una visita al establecimiento para comprobar si la ubicación es fácil de encontrar, evaluar el contacto con el negocio y contrastar la información real con la que aparece en la web. Luego, realizaremos un estudio de usabilidad con personas interesadas en la gastronomía que no hayan utilizado antes la web.
+
+El estudio incluirá:
+
+- Pruebas de usuario, en las que los participantes explorarán la web y realizarán tareas como consultar talleres o simular una reserva.
+- Entrevistas, para conocer su opinión sobre facilidad de uso y claridad de la información.
+- Encuestas, donde valorarán aspectos como navegación, accesibilidad y proceso de reserva.
+
+El objetivo es identificar mejoras para que la web refleje mejor la experiencia real y optimizar la usabilidad.
 
 
 ### 1.b Competitive Analysis
