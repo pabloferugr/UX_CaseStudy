@@ -49,7 +49,21 @@ Granada Cooking ofrece talleres de cocina para turistas y locales en Granada. Si
 
 [Ver Análisis de Competencia](P1/CompetitorAnalysis.pdf)
 
-**Granada Cooking** se sitúa en un punto intermedio entre sus competidores: ofrece una navegación aceptable y asistencia en tiempo real, pero carece de opciones como servicio de newsletter y soporte multilingüe, lo que podría dificultar su accesibilidad para un público más amplio. Para mejorar su competitividad, debería optimizar la visualización del calendario, ampliar la disponibilidad de idiomas y reforzar su comunicación con los usuarios a través de un sistema de newsletter.
+**Granada Cooking** se sitúa en un **punto intermedio dentro de su sector**, ofreciendo una propuesta atractiva pero con ciertas limitaciones en comparación con sus competidores. Destaca por su asistencia en tiempo real y la posibilidad de realizar reservas online, lo que la hace accesible y funcional en términos de interacción con los usuarios. Sin embargo, presenta debilidades notables, como la falta de soporte en varios idiomas, lo que puede limitar su alcance a un público más amplio, y la ausencia de un servicio de newsletter que ayude a mantener el interés de sus clientes.
+
+En comparación con **Taller Andaluz de Cocina**, Granada Cooking ofrece una navegación aceptable y asistencia en tiempo real, lo que facilita la interacción con los usuarios. Sin embargo, Taller Andaluz de Cocina proporciona una experiencia más estructurada y en dos idiomas (español e inglés), lo que le da ventaja en accesibilidad para turistas y público extranjero. Además, la navegación en su web es más clara, aunque su diseño sigue siendo algo complejo​CompetitorAnalysis.
+
+Por otro lado, **Food Romance Company** sobresale en facilidad de uso y accesibilidad. Su navegación es la más intuitiva de las tres y su proceso de reserva está mejor optimizado. También ofrece una mayor variedad de cursos y la información está mejor organizada, lo que facilita la toma de decisiones de los usuarios. Granada Cooking, en cambio, tiene problemas con la visualización del calendario, que requiere demasiado desplazamiento y no siempre muestra fechas disponibles de forma clara​CompetitorAnalysis.
+
+Para mejorar su competitividad, Granada Cooking debería trabajar en tres aspectos clave:
+
+- Hacer su web más intuitiva, especialmente el sistema de reservas, que actualmente puede resultar confuso.
+
+- Mejorar la accesibilidad, incluyendo más idiomas para atraer a clientes internacionales.
+
+- Fortalecer la relación con los usuarios, por ejemplo, con una newsletter que informe sobre nuevos cursos y eventos.
+
+En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilidad y comunicación para estar al nivel de sus competidores.
 
 
 ### 1.c Personas
