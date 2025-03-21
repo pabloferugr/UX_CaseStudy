@@ -86,7 +86,7 @@ En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilid
 
 ![Usuario #2](P1/Persona2.png)
 
-**Juan Ramírez López REDACTAR RESUMEN**
+**Juan Ramírez López es un jubilado de 67 años, apasionado por la historia, la cocina tradicional y la horticultura. Busca pasar más tiempo con su familia compartiendo con ellos sus recetas caseras ó realizando algún taller de comida tradicional.**
 
 
 ### 1.d User Journey Map
@@ -119,7 +119,27 @@ En general, Granada Cooking ofrece una propuesta interesante, pero necesita mejo
 
 [Ver User Jouney Map #2 (Juan)](P1/Persona&UserJourneyMap2.pdf)
 
-**AÑADIR RESUMEN Y CONCLUSIONES COMO EN MARTA**
+**Juan busca un taller de cocina en Granada y encuentra la web **Granada Cooking**, que le parece interesante. Busca talleres de cocina familiares pero se da cuenta que estan desactualizados. Ante la falta de información decide ponerse en contancto con el soporte técnico. Le dicen que esos talleres ya no están disponibles y acaba decepcionado. Finamelmente, abandona la web y busca en otra.**
+
+Este caso muestra cómo una web con un buen diseño inicial pierde usuarios por problemas de usabilidad y contenido desactualizado. La falta de ifnformación sobre el contenido de los talleres, genera confunsión y hacen al usuario pedir ayuda, perdiendo así potenciales clientes. Es común ver esto en webs que priorizan el posicionamiento de su web frente a dar una información clara y concisa.
+
+Los principales **problemas** detectados son:
+
+- Información desactualizada.
+  
+- Falta de contenido en los talleres.
+ 
+- Al contactar con el soporte técnico y recibir la información, no se han planteado alternativas ni otros talleres que podrían interesar al usuario.
+  
+Por lo que proponemos las siguientes **mejoras**:
+
+- Actualizar la información
+  
+- Añadir más contenido a los talleres.
+  
+- Que el soporte técnico ofrezca otras alternativas para evitar una pérdida de cliente.
+  
+En general, Granada Cooking ofrece una variedad de talleres pero la falta de información y deficiente usabilidad hacen que pierdan clientes como Juan.
 
 
 ### 1.e Usability Review
