@@ -1,5 +1,5 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Gastronomía/ocio de degustación ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  Pablo Fernández Gallardo     :octocat:     pabloferugr
- * :bust_in_silhouette:  Ana Graciani Donaire     :octocat:     agd03
+ * :bust_in_silhouette:  Pablo Fernández Gallardo     :octocat:     [pabloferugr](https://github.com/pabloferugr)
+ * :bust_in_silhouette:  Ana Graciani Donaire     :octocat:     [agd03](https://github.com/agd03)
 
 ----- 
 
@@ -35,8 +35,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -49,6 +47,8 @@ Granada Cooking ofrece talleres de cocina para turistas y locales en Granada. Si
 ![Método UX](img/Competitive.png) 
 -----
 
+[Ver Análisis de Competencia](P1/CompetitorAnalysis.pdf)
+
 **Granada Cooking** se sitúa en un punto intermedio entre sus competidores: ofrece una navegación aceptable y asistencia en tiempo real, pero carece de opciones como servicio de newsletter y soporte multilingüe, lo que podría dificultar su accesibilidad para un público más amplio. Para mejorar su competitividad, debería optimizar la visualización del calendario, ampliar la disponibilidad de idiomas y reforzar su comunicación con los usuarios a través de un sistema de newsletter.
 
 
@@ -60,7 +60,9 @@ Granada Cooking ofrece talleres de cocina para turistas y locales en Granada. Si
 
 **Marta González Carrasco** es una diseñadora gráfica freelance de 34 años, apasionada por el arte, la gastronomía y los viajes culturales. Busca experiencias que combinen creatividad y cocina, disfrutando de descubrir nuevas culturas a través de la comida. Comparte su aprendizaje en redes y se inspira en cada experiencia para su trabajo artístico.
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+![Usuario #2](P1/Persona2.png)
+
+**Juan Ramírez López REDACTAR RESUMEN**
 
 
 ### 1.d User Journey Map
@@ -91,7 +93,9 @@ Por lo que proponemos las siguientes **mejoras**:
 
 En general, Granada Cooking ofrece una propuesta interesante, pero necesita mejorar su usabilidad y gestión de contenido para evitar la pérdida de clientes potenciales.
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+[Ver User Jouney Map #2 (Juan)](P1/Persona&UserJourneyMap2.pdf)
+
+**AÑADIR RESUMEN Y CONCLUSIONES COMO EN MARTA**
 
 
 ### 1.e Usability Review
