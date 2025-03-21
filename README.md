@@ -86,7 +86,7 @@ En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilid
 
 
 
-
+![Usuario #2](P1/Persona2.png)
 
 **Juan Ramírez López** es un jubilado de 67 años, apasionado por la historia, la cocina tradicional y la horticultura. Busca pasar más tiempo con su familia compartiendo con ellos sus recetas caseras o realizando algún taller de comida tradicional.
 
