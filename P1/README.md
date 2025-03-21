@@ -1,9 +1,9 @@
 # DIU - Practica1
 
 
-- Desk research: [Análisis ompetencia](CompetitorAnalysis.pdf)
-- Persona & User Journey Map #1: [Marta](Persona&UserJourneyMap1.pdf)
-- Persona & User Journey Map #2: [Juan](Persona&UserJourneyMap2.pdf)
+- Desk research: [Análisis Competencia](CompetitorAnalysis.pdf)
+- Persona & User Journey Map #1: [Marta González Carrasco](Persona&UserJourneyMap1.pdf)
+- Persona & User Journey Map #2: [Juan Ramírez López](Persona&UserJourneyMap2.pdf)
 - Revisión de Usabilidad: [Usability Review]()
 
 
