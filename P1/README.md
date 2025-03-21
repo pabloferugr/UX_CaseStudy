@@ -50,4 +50,4 @@ En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilid
 
 - [Persona & User Journey Map #1](Persona&UserJourneyMap1.pdf)
 
-- [Persona & User Journey Map #2](Persona&UserJourneyMap2.pdf)
+- [Persona & User Journey Map #2](Persona&UserJourneyMap2.pdf.pdf)
