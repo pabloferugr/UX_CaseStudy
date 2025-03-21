@@ -84,9 +84,11 @@ En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilid
 
 **Marta González Carrasco** es una diseñadora gráfica freelance de 34 años, apasionada por el arte, la gastronomía y los viajes culturales. Busca experiencias que combinen creatividad y cocina, disfrutando de descubrir nuevas culturas a través de la comida. Comparte su aprendizaje en redes y se inspira en cada experiencia para su trabajo artístico.
 
+
+
 ![Usuario #2](P1/Persona2.png)
 
-**Juan Ramírez López** es un jubilado de 67 años, apasionado por la historia, la cocina tradicional y la horticultura. Busca pasar más tiempo con su familia compartiendo con ellos sus recetas caseras ó realizando algún taller de comida tradicional.
+**Juan Ramírez López** es un jubilado de 67 años, apasionado por la historia, la cocina tradicional y la horticultura. Busca pasar más tiempo con su familia compartiendo con ellos sus recetas caseras o realizando algún taller de comida tradicional.
 
 
 ### 1.d User Journey Map
@@ -146,10 +148,32 @@ En general, Granada Cooking ofrece una variedad de talleres pero la falta de inf
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+[Ver Usability Review](P1/Usability-review.pdf)
+
+Puntuación obtenida: **59/100** (moderado)
+
+Granada Cooking ofrece una web atractiva y bien estructurada, con buena presencia en buscadores y asistencia en tiempo real a través de WhatsApp y formulario de contacto. Pero también presenta fallos que afectan la experiencia de usuario, especialmente en la navegación y el proceso de reserva.
+
+**Puntos fuertes:**
+
+- Diseño visual limpio y con buena legibilidad.
+
+- Contacto directo por WhatsApp, lo que facilita la comunicación.
+
+- Fácil de encontrar en Google.
+
+**Puntos débiles:**
+
+- La página de inicio muestra talleres desactualizados, lo que genera confusión y desconfianza.
+
+- El sistema de reservas es poco intuitivo y no informa sobre la disponibilidad de plazas.
+
+- Falta de filtros y opciones de búsqueda para encontrar talleres fácilmente.
+
+- Algunas secciones tienen tiempos de carga lentos, lo que puede desmotivar a los usuarios.
+
+**Conclusión:**
+Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema de reservas, actualizar su contenido con más frecuencia y optimizar la navegación. Resolver estos problemas evitaría la frustración de los usuarios y ayudaría a aumentar las reservas y la fidelización de clientes.
 
 <br>
 
