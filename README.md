@@ -86,7 +86,7 @@ En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilid
 
 ![Usuario #2](P1/Persona2.png)
 
-**Juan Ramírez López es un jubilado de 67 años, apasionado por la historia, la cocina tradicional y la horticultura. Busca pasar más tiempo con su familia compartiendo con ellos sus recetas caseras ó realizando algún taller de comida tradicional.**
+**Juan Ramírez López** es un jubilado de 67 años, apasionado por la historia, la cocina tradicional y la horticultura. Busca pasar más tiempo con su familia compartiendo con ellos sus recetas caseras ó realizando algún taller de comida tradicional.
 
 
 ### 1.d User Journey Map
@@ -95,7 +95,7 @@ En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilid
 
 [Ver User Jouney Map #1 (Marta)](P1/Persona&UserJourneyMap1.pdf)
 
-Marta busca un curso de cocina en Granada y encuentra la web de **Granada Cooking**, que le parece atractiva. Pero después se da cuenta de que los talleres en la página de inicio están desactualizados. Al intentar reservar uno actual, el listado no tiene imágenes, haciéndolo menos atractivo. Cuando intenta reservar el sistema no muestra fechas disponibles ni explica por qué no puede hacerlo. Frustrada, abandona la web y busca otra opción.
+**Marta** busca un curso de cocina en Granada y encuentra la web de Granada Cooking, que le parece **atractiva**. Pero después se da cuenta de que los **talleres** en la página de inicio están **desactualizados**. Al intentar reservar uno actual, el listado no tiene imágenes, haciéndolo menos atractivo. Cuando intenta reservar el sistema no muestra fechas disponibles ni explica por qué no puede hacerlo. **Frustrada, abandona la web** y busca otra opción.
 
 Este caso muestra cómo una web con buen diseño inicial puede perder usuarios por problemas de usabilidad y contenido desactualizado. La falta de información clara sobre la disponibilidad de talleres y la ausencia de imágenes reducen el atractivo y generan confusión. Esto es común en plataformas que no priorizan la actualización de su contenido ni optimizan su sistema de reservas.
 
@@ -119,7 +119,7 @@ En general, Granada Cooking ofrece una propuesta interesante, pero necesita mejo
 
 [Ver User Jouney Map #2 (Juan)](P1/Persona&UserJourneyMap2.pdf)
 
-**Juan busca un taller de cocina en Granada y encuentra la web **Granada Cooking**, que le parece interesante. Busca talleres de cocina familiares pero se da cuenta que estan desactualizados. Ante la falta de información decide ponerse en contancto con el soporte técnico. Le dicen que esos talleres ya no están disponibles y acaba decepcionado. Finamelmente, abandona la web y busca en otra.**
+**Juan** busca un taller de cocina en Granada y encuentra la web Granada Cooking, que le parece interesante. Busca **talleres de cocina familiares** pero se da cuenta que estan desactualizados. Ante la falta de información decide ponerse en contancto con el **soporte técnico**. Le dicen que esos talleres ya no están disponibles y acaba **decepcionado**. Finamelmente, abandona la web y busca en otra.
 
 Este caso muestra cómo una web con un buen diseño inicial pierde usuarios por problemas de usabilidad y contenido desactualizado. La falta de ifnformación sobre el contenido de los talleres, genera confunsión y hacen al usuario pedir ayuda, perdiendo así potenciales clientes. Es común ver esto en webs que priorizan el posicionamiento de su web frente a dar una información clara y concisa.
 
