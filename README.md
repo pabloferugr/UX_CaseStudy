@@ -202,8 +202,8 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué
->>> El principal problema que afecta a usuarios como Juan es que encuentra talleres desactualizados o sin plazas y, al contactar con el soporte, no recibe sugerencias de alternativas.
->>> Mi **hipótesis** es que si la web solo muestra talleres actualizados y ofrece sugerencias automáticas cuando no hay disponibilidad, los usuarios no abandonarán la plataforma, aumentando así su satisfacción y las reservas.
+
+El principal problema que afecta a usuarios como Juan es que encuentra talleres desactualizados o sin plazas y, al contactar con el soporte, no recibe sugerencias de alternativas. Mi **hipótesis** es que si la web solo muestra talleres actualizados y ofrece sugerencias automáticas cuando no hay disponibilidad, los usuarios no abandonarán la plataforma, aumentando así su satisfacción y las reservas.
 
 
 
@@ -247,8 +247,8 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 -----
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
->>> Se han creado wireframes que priorizan la claridad de la información. La interfaz está centrada en mostrar talleres activos, con disponibilidad visible y sugerencias cuando no hay plazas.
->>> La herramienta utilizada ha sido **Figma**, junto con el plugin **Breakpoints** para adaptar el diseño tanto a escritorio como a móvil.
+
+Se han creado wireframes que priorizan la claridad de la información. La interfaz está centrada en mostrar talleres activos, con disponibilidad visible y sugerencias cuando no hay plazas. La herramienta utilizada ha sido **Figma**, junto con el plugin **Breakpoints** para adaptar el diseño tanto a escritorio como a móvil.
 
 <br>
 
