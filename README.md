@@ -248,6 +248,9 @@ TASK ANALISIS
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+
+SITE MAP
+
 ![Site Map](P2/sitemap.png)
 
 LABELLING
