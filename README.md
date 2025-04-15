@@ -188,9 +188,17 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
- Interesante | Críticas
- El contenido de los talleres resulta atractivo.
-  Preguntas | Nuevas ideas
+| Interesante                               | Críticas                                                   |
+|-------------------------------------------|------------------------------------------------------------|
+| El contenido de los talleres resulta atractivo. | La información de los talleres está desactualizada.         |
+| La atención por WhatsApp permite contacto directo. | El sistema de reservas no muestra disponibilidad ni propone alternativas. |
+
+| Preguntas                                              | Nuevas ideas                                              |
+|--------------------------------------------------------|-----------------------------------------------------------|
+| ¿Qué pasa si un taller está completo?                 | Mostrar automáticamente talleres similares disponibles.    |
+| ¿Por qué se muestran talleres no activos en portada?  | Mostrar solo talleres activos con plazas confirmadas.      |
+| ¿Por qué no se ofrecen alternativas desde soporte?    | Automatizar sugerencias personalizadas para evitar abandono. |
+
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
