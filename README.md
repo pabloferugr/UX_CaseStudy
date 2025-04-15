@@ -229,17 +229,25 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-| Término               | Significado                                                                 |
-|-----------------------|------------------------------------------------------------------------------|
-| Inicio                | Página principal.                                                            |
-| Talleres disponibles  | Listado de talleres activos con plazas.                                     |
-| Sugerencias           | Alternativas recomendadas si un taller está lleno.                          |
-| Buscar                | Barra de búsqueda y filtros por temática, fecha, nivel, etc.                |
-| Idioma                | Selector para cambiar el idioma de la interfaz (español/inglés).             |
-| Cuenta                | Perfil de usuario registrado.                                                |
-| Reservas              | Sección donde el usuario consulta y gestiona sus talleres reservados.        |
-| Contacto              | Formulario de contacto o enlace directo a soporte.                          |
-| Ayuda                 | Información sobre cómo reservar, cancelar o resolver dudas frecuentes.       |
+| Término                 | Significado                                                                 |
+|-------------------------|------------------------------------------------------------------------------|
+| **Inicio**              | Página principal con talleres destacados y acceso a filtros.                |
+| **Talleres disponibles**| Lista filtrada de talleres activos y con plazas disponibles.                |
+| **Calendario**          | Vista mensual con fechas de los talleres; solo muestra fechas con plazas.   |
+| **Ver disponibilidad**  | Información clara sobre si hay plazas o está completo.                     |
+| **Sugerencias**         | Talleres alternativos mostrados automáticamente si el seleccionado está completo. |
+| **Buscar taller**       | Barra de búsqueda con filtros por temática, nivel, fecha o idioma.          |
+| **Filtrar por...**      | Opciones para acotar resultados por tipo de cocina, nivel, fecha, etc.      |
+| **Reservar ahora**      | Botón para iniciar el proceso de reserva si hay plazas.                     |
+| **No hay plazas**       | Mensaje visible que muestra que el taller está completo.                    |
+| **Ver más talleres**    | Llama a la acción para seguir explorando opciones similares.                |
+| **Iniciar sesión / Registrarse** | Acceso para usuarios con cuenta o registro de nuevos.               |
+| **Cuenta**              | Sección donde el usuario ve sus datos, reservas, etc.                       |
+| **Pagar**               | Página donde se escoge y confirma el método de pago.                        |
+| **Formas de pago**      | Desplegable para elegir entre tarjeta, PayPal, Bizum, etc.                  |
+| **Idioma**              | Selector visible para cambiar entre español e inglés.                       |
+| **RRSS**                | Vista previa y enlaces a redes sociales de Granada Cooking.                 |
+
 
 
 ### 2.d Wireframes
