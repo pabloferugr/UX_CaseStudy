@@ -220,6 +220,8 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 
 ![User Flow No Logueado](P2/UserFlowNoLogueado.png)
 
+TASK ANALISIS
+
 | Tarea                                                       | Sin cuenta | Con cuenta | Total |
 |-------------------------------------------------------------|------------|------------|-------|
 | Ver talleres disponibles (filtrados y actualizados)         |     3      |     3      |   6   |
@@ -244,6 +246,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ----
 ![Site Map](P2/sitemap.png)
 
+LABELLING
 
 | Término                 | Significado                                                                 |
 |-------------------------|------------------------------------------------------------------------------|
