@@ -43,18 +43,24 @@
   
 * Labelling
   
-
-| Término               | Significado                                                                 |
-|-----------------------|------------------------------------------------------------------------------|
-| Inicio                | Página principal de la web.                                                  |
-| Talleres disponibles  | Listado filtrado de talleres con plazas confirmadas.                        |
-| Buscar                | Filtro por temática, fecha, idioma o dificultad.                            |
-| Sugerencias           | Lista de talleres recomendados si uno está lleno.                           |
-| Idioma                | Selector de idioma (mínimo español/inglés).                                 |
-| Cuenta                | Perfil del usuario con historial de reservas.                               |
-| Reservas              | Sección donde se consultan talleres ya reservados.                          |
-| Contacto              | Enlace directo al soporte por formulario o WhatsApp.                        |
-| Ayuda                 | Preguntas frecuentes y guía de uso del sistema de reservas. 
+| Término                 | Significado                                                                 |
+|-------------------------|------------------------------------------------------------------------------|
+| **Inicio**              | Página principal con talleres destacados y acceso a filtros.                |
+| **Talleres disponibles**| Lista filtrada de talleres activos y con plazas disponibles.                |
+| **Calendario**          | Vista mensual con fechas de los talleres; solo muestra fechas con plazas.   |
+| **Ver disponibilidad**  | Información clara sobre si hay plazas o está completo.                     |
+| **Sugerencias**         | Talleres alternativos mostrados automáticamente si el seleccionado está completo. |
+| **Buscar taller**       | Barra de búsqueda con filtros por temática, nivel, fecha o idioma.          |
+| **Filtrar por...**      | Opciones para acotar resultados por tipo de cocina, nivel, fecha, etc.      |
+| **Reservar ahora**      | Botón para iniciar el proceso de reserva si hay plazas.                     |
+| **No hay plazas**       | Mensaje visible que muestra que el taller está completo.                    |
+| **Ver más talleres**    | Llama a la acción para seguir explorando opciones similares.                |
+| **Iniciar sesión / Registrarse** | Acceso para usuarios con cuenta o registro de nuevos.               |
+| **Cuenta**              | Sección donde el usuario ve sus datos, reservas, etc.                       |
+| **Pagar**               | Página donde se escoge y confirma el método de pago.                        |
+| **Formas de pago**      | Desplegable para elegir entre tarjeta, PayPal, Bizum, etc.                  |
+| **Idioma**              | Selector visible para cambiar entre español e inglés.                       |
+| **RRSS**                | Vista previa y enlaces a redes sociales de Granada Cooking.                 |
 
 ### Prototipo Lo-FI Wireframe 
 
