@@ -242,7 +242,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-![Site Map](P2/sitemap.pdf)
+![Site Map](P2/sitemap.png)
 
 
 | Término                 | Significado                                                                 |
