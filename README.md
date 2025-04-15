@@ -21,7 +21,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Pablo Fernández Gallardo     :octocat:     [pabloferugr](https://github.com/pabloferugr)
- * :bust_in_silhouette:  Ana Graciani Donaire     :octocat:     [agd03](https://github.com/agd03)
+ * :bust_in_silhouette:  Ana Graciani Donaire     :octocat:     [agd03](https://github.com/agd03) (Hasta la práctica 1).
 
 ----- 
 
@@ -188,7 +188,8 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
- Interesante | Críticas     
+ Interesante | Críticas
+ El contenido de los talleres resulta atractivo
 | ------------- | -------
   Preguntas | Nuevas ideas
   
