@@ -216,7 +216,11 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/Sitemap.png) 
 -----
 
+USER FLOW LOGUEADO
+
 ![User Flow Logueado](P2/UserFlowLogueado.png)
+
+USER FLOW NO LOGUEADO
 
 ![User Flow No Logueado](P2/UserFlowNoLogueado.png)
 
