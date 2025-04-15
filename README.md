@@ -208,7 +208,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-[Scope Canvas](P2/ScopeCanvas.pdf)
+![Scope Canvas](P2/ScopeCanvas.pdf)
 
 
 
@@ -216,9 +216,9 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/Sitemap.png) 
 -----
 
-[User Flow Logueado](P2/UserFlowLogueado.png)
+![User Flow Logueado](P2/UserFlowLogueado.png)
 
-[User Flow No Logueado](P2/UserFlowNoLogueado.png)
+![User Flow No Logueado](P2/UserFlowNoLogueado.png)
 
 | Tarea                                                       | Sin cuenta | Con cuenta | Total |
 |-------------------------------------------------------------|------------|------------|-------|
@@ -242,7 +242,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-[Site Map](P2/sitemap.pdf)
+![Site Map](P2/sitemap.pdf)
 
 
 | Término                 | Significado                                                                 |
