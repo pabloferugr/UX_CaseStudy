@@ -201,8 +201,10 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
   
     
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+>>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué
+>>> El principal problema que afecta a usuarios como Juan es que encuentra talleres desactualizados o sin plazas y, al contactar con el soporte, no recibe sugerencias de alternativas.
+>>> Mi **hipótesis** es que si la web solo muestra talleres actualizados y ofrece sugerencias automáticas cuando no hay disponibilidad, los usuarios no abandonarán la plataforma, aumentando así su satisfacción y las reservas.
+
 
 
 ### 2.b ScopeCanvas
@@ -227,16 +229,26 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+| Término               | Significado                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| Inicio                | Página principal.                                                            |
+| Talleres disponibles  | Listado de talleres activos con plazas.                                     |
+| Sugerencias           | Alternativas recomendadas si un taller está lleno.                          |
+| Buscar                | Barra de búsqueda y filtros por temática, fecha, nivel, etc.                |
+| Idioma                | Selector para cambiar el idioma de la interfaz (español/inglés).             |
+| Cuenta                | Perfil de usuario registrado.                                                |
+| Reservas              | Sección donde el usuario consulta y gestiona sus talleres reservados.        |
+| Contacto              | Formulario de contacto o enlace directo a soporte.                          |
+| Ayuda                 | Información sobre cómo reservar, cancelar o resolver dudas frecuentes.       |
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+>>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+>>> Se han creado wireframes que priorizan la claridad de la información. La interfaz está centrada en mostrar talleres activos, con disponibilidad visible y sugerencias cuando no hay plazas.
+>>> La herramienta utilizada ha sido **Figma**, junto con el plugin **Breakpoints** para adaptar el diseño tanto a escritorio como a móvil.
 
 <br>
 
