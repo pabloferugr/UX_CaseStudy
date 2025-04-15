@@ -8,7 +8,7 @@
 
 * Mapa de empatía
 
-  [Mapa de Empatía](P2/EmpathyCustomerMap.pdf)
+  [Mapa de Empatía](EmpathyCustomerMap.pdf)
   
   **Juan**, nuestro usuario principal, es una persona mayor interesada en talleres familiares. Se siente confundido cuando ve talleres desactualizados en la portada y decepcionado al no recibir opciones alternativas desde el soporte. Necesita una experiencia fluida, con información clara y actualizada que le permita tomar decisiones sin depender de ayuda externa.
   
