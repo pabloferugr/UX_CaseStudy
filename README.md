@@ -179,13 +179,11 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
 | Interesante                               | Críticas                                                   |
@@ -199,9 +197,8 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 | ¿Por qué se muestran talleres no activos en portada?  | Mostrar solo talleres activos con plazas confirmadas.      |
 | ¿Por qué no se ofrecen alternativas desde soporte?    | Automatizar sugerencias personalizadas para evitar abandono. |
 
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué
+
+
 
 El principal problema que afecta a usuarios como Juan es que encuentra talleres desactualizados o sin plazas y, al contactar con el soporte, no recibe sugerencias de alternativas. Mi **hipótesis** es que si la web solo muestra talleres actualizados y ofrece sugerencias automáticas cuando no hay disponibilidad, los usuarios no abandonarán la plataforma, aumentando así su satisfacción y las reservas.
 
@@ -211,8 +208,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+(P2/ScopeCanvas.pdf)
 
 
 
@@ -245,7 +241,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+
 
 | Término                 | Significado                                                                 |
 |-------------------------|------------------------------------------------------------------------------|
