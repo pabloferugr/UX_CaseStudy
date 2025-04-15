@@ -222,6 +222,24 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
+| Tarea                                                       | Sin cuenta | Con cuenta | Total |
+|-------------------------------------------------------------|------------|------------|-------|
+| Ver talleres disponibles (filtrados y actualizados)         |     3      |     3      |   6   |
+| Ver información y disponibilidad del taller                 |     3      |     3      |   6   |
+| Recibir sugerencias si el taller está lleno                 |     3      |     3      |   6   |
+| Iniciar el proceso de reserva                               |     3      |     3      |   6   |
+| Introducir datos personales                                 |     3      |     0      |   3   |
+| Escoger forma de pago                                       |     3      |     3      |   6   |
+| Confirmar la reserva                                        |     3      |     3      |   6   |
+| Crear cuenta (opcional en la reserva)                       |     2      |     0      |   2   |
+| Consultar calendario con fechas disponibles                 |     2      |     2      |   4   |
+| Cambiar idioma de la web                                    |     2      |     2      |   4   |
+| Usar filtros para buscar talleres específicos               |     2      |     2      |   4   |
+| Ver taller sugerido y reservarlo                            |     2      |     2      |   4   |
+| Ver su historial de reservas                                |     0      |     2      |   2   |
+| Acceder a su cuenta                                         |     0      |     2      |   2   |
+
+
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
