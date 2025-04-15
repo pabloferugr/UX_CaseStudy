@@ -1,8 +1,7 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información
-  He detectado que muchos usuarios llegan a Granada Cooking buscando talleres gastronómicos, pero abandonan la web al no encontrar información clara, talleres disponibles o alternativas sugeridas.Los puntos clave de contacto —como la portada, el calendario y el soporte— no ofrecen respuestas rápidas ni confiables.
+* Malla receptora de información: He detectado que muchos usuarios llegan a Granada Cooking buscando talleres gastronómicos, pero abandonan la web al no encontrar información clara, talleres disponibles o alternativas sugeridas.Los puntos clave de contacto —como la portada, el calendario y el soporte— no ofrecen respuestas rápidas ni confiables.
 
 * Mapa de empatía
   **Juan**, nuestro usuario principal, es una persona mayor interesada en talleres familiares. Se siente confundido cuando ve talleres desactualizados en la portada y decepcionado al no recibir opciones alternativas desde el soporte. Necesita una experiencia fluida, con información clara y actualizada que le permita tomar decisiones sin depender de ayuda externa.
