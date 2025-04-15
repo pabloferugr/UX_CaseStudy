@@ -12,7 +12,7 @@
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
-Lo que hace a mi proyecto diferente es que el sistema de reservas muestra **únicamente talleres activos y con plazas disponibles**. Además, si un taller está completo, se ofrecen automáticamente **sugerencias de otros talleres similares**. Esta mejora evita la pérdida de usuarios como Juan y facilita la navegación de nuevos visitantes.
+  Lo que hace a mi proyecto diferente es que el sistema de reservas muestra **únicamente talleres activos y con plazas disponibles**. Además, si un taller está completo, se ofrecen automáticamente **sugerencias de otros talleres similares**. Esta mejora evita la pérdida de usuarios como Juan y facilita la navegación de nuevos visitantes.
 
 
 ### TASK ANALYSIS
