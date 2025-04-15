@@ -9,11 +9,11 @@ Actualizado: 07/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Granada Bites
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Talleres gastronómicos donde el objetivo es divertirse, además de aprender nuevos platos.
 
 Logotipo: 
 
