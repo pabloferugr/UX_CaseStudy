@@ -4,7 +4,7 @@
 
 * Malla receptora de información
   
-  He detectado que muchos usuarios llegan a Granada Cooking buscando talleres gastronómicos, pero abandonan la web al no encontrar información clara, talleres disponibles o alternativas sugeridas.Los puntos clave de contacto —como la portada, el calendario y el soporte— no ofrecen respuestas rápidas ni confiables.
+  He detectado que muchos usuarios llegan a Granada Cooking buscando talleres gastronómicos, pero abandonan la web al no encontrar información clara, talleres disponibles o alternativas sugeridas.
 
 * Mapa de empatía
   
