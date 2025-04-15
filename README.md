@@ -208,7 +208,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-(P2/ScopeCanvas.pdf)
+[Scope Canvas](P2/ScopeCanvas.pdf)
 
 
 
@@ -216,7 +216,9 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+[User Flow Logueado](P2/UserFlowLogueado.pdf)
+
+[User Flow No Logueado](P2/UserFlowNoLogueado.pdf)
 
 | Tarea                                                       | Sin cuenta | Con cuenta | Total |
 |-------------------------------------------------------------|------------|------------|-------|
@@ -240,7 +242,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
+[Site Map](P2/Sitemap.pdf)
 
 
 | Término                 | Significado                                                                 |
@@ -270,7 +272,7 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
 
-Se han creado wireframes que priorizan la claridad de la información. La interfaz está centrada en mostrar talleres activos, con disponibilidad visible y sugerencias cuando no hay plazas. La herramienta utilizada ha sido **Figma**, junto con el plugin **Breakpoints** para adaptar el diseño tanto a escritorio como a móvil.
+Por ahora no los tengo, los subiré después de Semana Santa para la defensa. 
 
 <br>
 
