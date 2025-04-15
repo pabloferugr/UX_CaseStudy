@@ -189,8 +189,7 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
 
  Interesante | Críticas
-| El contenido de los talleres resulta atractivo. | La información de los talleres está desactualizada.
-| La atención por Whatsapp permite contacto directo | El sistema de reservas no muestra disponibilidad ni propone alternativas
+ El contenido de los talleres resulta atractivo.
   Preguntas | Nuevas ideas
   
     
