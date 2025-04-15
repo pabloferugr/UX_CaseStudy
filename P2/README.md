@@ -7,6 +7,8 @@
   He detectado que muchos usuarios llegan a Granada Cooking buscando talleres gastronómicos, pero abandonan la web al no encontrar información clara, talleres disponibles o alternativas sugeridas.
 
 * Mapa de empatía
+
+  [Mapa de Empatía](P2/EmpathyCustomerMap.pdf)
   
   **Juan**, nuestro usuario principal, es una persona mayor interesada en talleres familiares. Se siente confundido cuando ve talleres desactualizados en la portada y decepcionado al no recibir opciones alternativas desde el soporte. Necesita una experiencia fluida, con información clara y actualizada que le permita tomar decisiones sin depender de ayuda externa.
   
