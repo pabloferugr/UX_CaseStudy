@@ -40,5 +40,3 @@ Esta etapa me ha permitido analizar en profundidad los fallos de la web actual d
 Proponer una solución centrada en la información actualizada y la oferta de sugerencias automáticas ha sido clave para mejorar la experiencia general.  
 Creo que este rediseño facilita la navegación y aporta confianza al usuario, aumentando así las probabilidades de reserva y fidelización.
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
