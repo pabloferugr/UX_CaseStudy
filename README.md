@@ -17,6 +17,8 @@ Talleres gastronómicos donde el objetivo es divertirse, además de aprender nue
 
 Logotipo: 
 
+![Logotipo](P2/Logotipo.png)
+
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
