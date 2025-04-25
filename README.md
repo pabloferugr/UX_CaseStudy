@@ -215,7 +215,7 @@ EMPATTHY MAP
 
 Lo que hace a mi proyecto diferente es que el sistema de reservas muestra **únicamente talleres activos y con plazas disponibles**. Además, si un taller está completo, se ofrecen automáticamente **sugerencias de otros talleres similares**. Esta mejora evita la pérdida de usuarios como Juan y facilita la navegación de nuevos visitantes.
 
-![Scope Canvas](P2/ScopeCanvas.pdf)
+![Scope Canvas](P2/ScopeCanvas.png)
 
 
 
@@ -243,6 +243,11 @@ USER FLOW NO LOGUEADO
 ![User Flow No Logueado](P2/UserFlowNoLogueado.png)
 
 TASK ANALISIS
+
+Esta tabla recoge las tareas clave que un usuario como Juan debe poder realizar dentro del rediseño de Granada Cooking. Se ha diferenciado entre usuarios sin cuenta (como Juan en su primera visita) y usuarios con cuenta, para reflejar cómo mejora la experiencia si el usuario decide registrarse.
+
+Las tareas más importantes —como ver talleres disponibles, comprobar la disponibilidad, recibir sugerencias automáticas y completar una reserva— están disponibles para todos los usuarios.
+Sin embargo, aquellos con cuenta se benefician de un proceso más ágil, sin necesidad de introducir datos personales en cada reserva y con acceso a su historial, lo que les facilita repetir experiencias o guardar sus favoritas.
 
 | Tarea                                                       | Sin cuenta | Con cuenta | Total |
 |-------------------------------------------------------------|------------|------------|-------|
@@ -301,9 +306,8 @@ LABELLING
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pantalla a dispositivos móviles. Básicamente consiste en unir en columnas los elementos.
 
-Por ahora no los tengo, los subiré después de Semana Santa para la defensa. 
 
 <br>
 
