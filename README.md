@@ -199,14 +199,21 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
 
 
-
 El principal problema que afecta a usuarios como Juan es que encuentra talleres desactualizados o sin plazas y, al contactar con el soporte, no recibe sugerencias de alternativas. Mi **hipótesis** es que si la web solo muestra talleres actualizados y ofrece sugerencias automáticas cuando no hay disponibilidad, los usuarios no abandonarán la plataforma, aumentando así su satisfacción y las reservas.
 
+EMPATTHY MAP
+
+  
+  **Juan**, nuestro usuario principal, es una persona mayor interesada en talleres familiares. Se siente confundido cuando ve talleres desactualizados en la portada y decepcionado al no recibir opciones alternativas desde el soporte. Necesita una experiencia fluida, con información clara y actualizada que le permita tomar decisiones sin depender de ayuda externa.
+
+![Mapa de Empatía](EmpathyCustomerMap.png)
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+
+Lo que hace a mi proyecto diferente es que el sistema de reservas muestra **únicamente talleres activos y con plazas disponibles**. Además, si un taller está completo, se ofrecen automáticamente **sugerencias de otros talleres similares**. Esta mejora evita la pérdida de usuarios como Juan y facilita la navegación de nuevos visitantes.
 
 ![Scope Canvas](P2/ScopeCanvas.pdf)
 
@@ -216,11 +223,22 @@ El principal problema que afecta a usuarios como Juan es que encuentra talleres 
 ![Método UX](img/Sitemap.png) 
 -----
 
+* User
+  
+  1. El usuario accede a la web.
+  2. Navega por los talleres disponibles (con filtros).
+  3. Si un taller está lleno, el sistema le sugiere otros similares.
+  4. Puede registrarse para guardar sus reservas o recibir más recomendaciones.
+
 USER FLOW LOGUEADO
+
+**Usuarios con cuenta**: han reservado previamente o planean hacerlo varias veces. Esperan un sistema más personalizado, con sugerencias y gestión de reservas.
 
 ![User Flow Logueado](P2/UserFlowLogueado.png)
 
 USER FLOW NO LOGUEADO
+
+**Usuarios sin cuenta**: acceden de forma ocasional. Solo buscan un taller disponible y esperan poder reservar con facilidad.
 
 ![User Flow No Logueado](P2/UserFlowNoLogueado.png)
 
@@ -250,6 +268,9 @@ TASK ANALISIS
 ----
 
 SITE MAP
+
+La estructura del sitio se ha rediseñado para que los talleres disponibles estén claramente destacados desde la portada. Se prioriza el acceso a filtros por fecha, tipo de cocina o nivel, junto con acceso directo a contacto.
+
 
 ![Site Map](P2/sitemap.png)
 
