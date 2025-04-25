@@ -277,7 +277,7 @@ SITE MAP
 La estructura del sitio se ha rediseñado para que los talleres disponibles estén claramente destacados desde la portada. Se prioriza el acceso a filtros por fecha, tipo de cocina o nivel, junto con acceso directo a contacto.
 
 
-![Site Map](P2/SiteMap.png)
+![Site Map](P2/sitemap.png)
 
 LABELLING
 
