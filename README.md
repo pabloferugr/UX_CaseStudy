@@ -277,7 +277,7 @@ SITE MAP
 La estructura del sitio se ha rediseñado para que los talleres disponibles estén claramente destacados desde la portada. Se prioriza el acceso a filtros por fecha, tipo de cocina o nivel, junto con acceso directo a contacto.
 
 
-![Site Map](P2/sitemap.png)
+![Site Map](P2/SiteMap.png)
 
 LABELLING
 
@@ -308,6 +308,16 @@ LABELLING
 
 Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pantalla a dispositivos móviles. Básicamente consiste en unir en columnas los elementos.
 
+![Calendario](P2/Bocetos/Calendario.pdf)
+![Contacto Grid](P2/Bocetos/ContactoGrid.pdf)
+![Contacto Wireframe](P2/Bocetos/ContactoWireframe.pdf)
+![Descripcion Actividad](P2/Bocetos/DescripcionActividad.pdf)
+![Grid Actividad](P2/Bocetos/GridActividad.pdf)
+![Grid Calendario](P2/Bocetos/GridCalendario.pdf)
+![Grid Reservar](P2/Bocetos/GridReservar.pdf)
+![Index Grid](P2/Bocetos/IndexGrid.pdf)
+![Index Wireframe](P2/Bocetos/IndexWireframe.pdf)
+![Reservar](P2/Bocetos/Reservar.pdf)
 
 <br>
 
