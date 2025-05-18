@@ -41,7 +41,7 @@ Se realizará un estudio PRÁCTICO del interfaz de usuario en base a un grupo de
 
 ### 1. [Reclutamiento participantes estudio]
 
-* Lo primero que debemos hacer es **reclutar los usuarios** con los que vamos a evaluar el proyecto. Para ello **usaremos al menos un grupo de clase ** para evaluación mediante A/B testing. 
+* Lo primero que debemos hacer es **reclutar los usuarios** con los que vamos a evaluar el proyecto. Para ello **usaremos al menos un grupo de clase** para evaluación mediante A/B testing. 
 * En clase de prácticas se organizará la asignación de caso B para co-evaluación, y se publicará en la carpeta de los guiones de prácticas. 
 * Además deberemos completar con al menos 3-5 usuarios más (reales) que pueden ser familiares, amigos, personas aleatorias, y a las que se le aplicará las pruebas que realizaremos en siguiente punto.
 * Se deberá tener identificado los usarios con una tabla descriptiva demográfica de los mismos y sus características, como por ejemplo: 
@@ -79,7 +79,11 @@ Debemos organizar las dos versiones con documentación para el usuario de lo que
 
 Técnicas de benchmarking para evaluar si están bien diseñadas las páginas. Para ello, usaremos [Gaze Recorder](https://gazerecorder.com/) (o similar) para crear el experimento que consistirá en introducir las imágenes (del prototipo) a evaluar, reclutar los usuarios y realizar la prueba de in situ o remota (se puede enviar link para hacerla sin supervisión). Se deben dar unas mínimas instrucciones al usuario de lo que debe hacer en cada página/imagen. Pueden ser tareas supervisadas de atención (por ejemplo: imagen 1 identifica cómo hacer una reserva, dónde está ubicado el local, etc.) o bien de exploración (p.e. mira la imagen/web y concéntrate en lo que más te llama la atención). Identificar al menos UN áreas de interés (AOI) por boceto que deben reconocerse por el usuario. Se aconseja dar un tiempo entre 4-6” por cada imagen
 
-Gaze Recorder está **limitado a 4 usuarios**. Podemos hacer 2 test si aplicamos A/B testing y analizaremos los heat map en busca de diferencias significativas entre cómo se había diseñado la tarea y los mapas de calor de los sujetos. También se debe analizar los puntos de interés (AOI) que no han sido observados. Una forma sencilla de realizar este análisis es añadir un usuario experto (del equipo de diseño) y 2 usuarios objetivo, de modo que podamos comprobar diferencias entre ellos.  
+Gaze Recorder está **limitado a 3/4 usuarios**. Podemos hacer 2 test si aplicamos A/B testing y analizaremos los heat map en busca de diferencias significativas entre cómo se había diseñado la tarea y los mapas de calor de los sujetos. También se debe analizar los puntos de interés (AOI) que no han sido observados. Una forma sencilla de realizar este análisis es añadir un usuario experto (del equipo de diseño) y 2 usuarios objetivo, de modo que podamos comprobar diferencias entre ellos.  
+
+Como alternativa, podemos usar **Real Eye** (https://www.realeye.io/) que permite hacer un estudio completo pero limitado en tiempo (+/- 7 días)
+
+
 
   
   
@@ -121,12 +125,13 @@ Tambien disponible en PDF: [http://www.measuringux.com/sus/SUS.pdf](http://www.m
 
 En PRADO se encuentra además un EXCEL para los cálculos de 4 usuarios.  [Cuestionario SUS DIU](https://pradogrado.ugr.es/moodle/mod/resource/view.php?id=165778) 
 
+También se puede usar **SUS Calculator** - https://stuart-cunningham.github.io/sus/
   
 <br>  
   
 ### 3. [USABILITY REPORT]
 
-Utilizando Maze (o de forma manual) realizaremos un pequeño informe de usabilidad de nuestra aplicación. 
+Utilizando **Maze** (o de forma manual) realizaremos un pequeño informe de usabilidad de nuestra aplicación. 
 
 También se creará un informe con los datos obtenidos para la aplicación B del A/B testing y así como recomendaciones de mejoras. 
 Este año vamos a SIMPLIFICAR y se puede hacer el informe con la plantilla en MarkDown que podeis encontrar en: [Usability-report-template](https://github.com/mgea/UX_CaseStudy/blob/master/P4/Usability-Report-template.md)
