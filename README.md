@@ -19,8 +19,6 @@ Logotipo:
 
 ![Logotipo](P3/logo.png)
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
-
 Miembros:
  * :bust_in_silhouette:  Pablo Fernández Gallardo     :octocat:     [pabloferugr](https://github.com/pabloferugr)
  * :bust_in_silhouette:  Ana Graciani Donaire     :octocat:     [agd03](https://github.com/agd03) (Hasta la práctica 1).
@@ -325,60 +323,101 @@ Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pan
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
-![MoodBoard](P3/MoodBoard.pdf)
+El moodboard define la identidad visual de nuestro proyecto, orientado a adultos mayores que desean disfrutar la cocina como experiencia social, relajada y compartida.
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Se ha trabajado en Figma para organizar los elementos clave del diseño:
+
+Paleta de colores: blanco, negro, rojo (#DD0707) y gris claro (#C4C4C4), que aportan contraste, claridad y calidez.
+
+Tipografías:
+
+Rocketwildness: aporta personalidad y estilo artesanal en títulos.
+
+Roboto Flex: facilita la lectura en bloques de texto largos.
+
+Avenir LT Pro: aplicada específicamente en calendarios por su legibilidad numérica.
+
+También se han añadido imágenes de platos caseros, escenas intergeneracionales en cocina y detalles de ingredientes, que evocan tradición, cuidado y comunidad.
+
+Herramientas utilizadas:
+
+Figma: para construir y organizar visualmente la guía.
+
+Coolors.co: para generar y validar combinaciones cromáticas.
+
+Designs.ai/fonts y FontPair: para la elección tipográfica.
+
+![MoodBoard](P3/MoodBoard.pdf)
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
-![LandingPage](P3/Landing.pdf)
+La landing page fue diseñada en Figma aplicando directamente el estilo definido en el moodboard.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Incluye:
+
+Una cabecera clara con llamada a la acción: inscribirse al taller.
+
+Presentación de talleres destacados (costillas, pan, tarta), cada uno con nombre, descripción corta, duración y tipo.
+
+Botones funcionales y sistema de navegación accesible.
+
+Calendario interactivo con fechas destacadas.
+
+Elementos en Rocketwildness para titulares y Roboto Flex para contenido principal.
+
+Este diseño permite una experiencia fluida y sencilla, centrada en la lectura clara y en el componente emocional: cocinar con y para otros.
+
+![LandingPage](P3/Landing.pdf)
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
-![GuideLines](P3/Guidelines.pdf)
+Se han definido las siguientes guidelines y patrones de interfaz:
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Alto contraste (#DD0707 fondo y blanco texto), accesibles para personas con visión reducida.
+
+Tipografía Roboto Flex en todos los textos largos, garantizando legibilidad.
+
+Jerarquía visual clara: títulos grandes, descripciones cortas, acciones destacadas en rojo.
+
+Calendario con Avenir LT Pro, para asegurar alineación limpia y buena lectura de fechas.
+
+Estructura responsive en columnas simples para que sea usable en móviles y tablets.
+
+Estas decisiones están documentadas en base a los principios de accesibilidad (WCAG) y buenas prácticas UI del sistema Material Design.
+
+![GuideLines](P3/Guidelines.pdf)
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
-![Layout](P3/Layout.pdf)
+El mockup fue realizado en Figma con un diseño funcional y realista del layout en acción.
+Dado que el proyecto excede el número de prototipos activos en la cuenta, se ha compartido el enlace por correo.
 
-No está funcionando el enlace porque tengo más proyectos de los permitidos en figma. Lo comparto por correo para que pueda acceder.
+Simula el recorrido del usuario:
+
+Desde la landing page hasta la selección de taller, información del taller, la visualización del calendario y compra completada.
+
+Se ha priorizado la claridad, el contraste y el uso de patrones reconocibles por el público objetivo.
+
+Este mockup permite probar la experiencia real con stakeholders, recibir feedback y validar decisiones visuales y funcionales antes del paso a desarrollo.
+
+![Layout](P3/Layout.pdf)
 
 ![Layout - Simulacion]([https://www.figma.com/proto/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=0-1&t=QOG82eqShQgu0UTx-1](https://www.figma.com/design/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=0-1&t=QOG82eqShQgu0UTx-1))
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
-
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
-
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 <br>
 
