@@ -13,7 +13,7 @@ Cada recurso ha sido documentado y enlazado correctamente en la carpeta `P3/`, c
 
 Destaco especialmente el uso coherente de herramientas como Figma, Coolors y sistemas tipográficos, que han facilitado la construcción de una identidad visual sólida.
 
-**Como valoración final**, considero que el resultado cumple los objetivos propuestos: ofrecer un entorno digital cálido, claro y funcional para promover la participación en talleres presenciales de cocina. La base visual y estructural queda lista para una fase de desarrollo posterior.
+**Como valoración final**, considero que el resultado cumple los objetivos propuestos: ofrecer un entorno digital cálido, claro y funcional para promover la participación en talleres presenciales de cocina. 
 
 
 
