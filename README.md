@@ -362,6 +362,10 @@ Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pan
 ![Método UX](img/mockup.png) 
 ----
 
+![Layout](P3/Layout.pdf)
+
+![Layout - Simulacion](https://www.figma.com/proto/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=2164-297&p=f&t=TmtYdOR6nFooTH4c-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)
+
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
@@ -369,9 +373,7 @@ Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pan
 ![Método UX](img/caseStudy.png) 
 -----
 
-![Layout](P3/Layout.pdf)
 
-![Layout - Simulacion]([P3/Layout.pdf](https://www.figma.com/proto/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=2164-297&p=f&t=TmtYdOR6nFooTH4c-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2))
 
 >>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
