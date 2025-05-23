@@ -360,21 +360,18 @@ Designs.ai/fonts y FontPair: para la elección tipográfica.
 ![Método UX](img/landing-page.png) 
 ----
 
-La landing page fue diseñada en Figma aplicando directamente el estilo definido en el moodboard.
+Contenido principal:
 
-Incluye:
+Cabecera con logotipo y menú claro: Talleres, Calendario, Información y Ajustes.
 
-Una cabecera clara con llamada a la acción: inscribirse al taller.
+Mensaje de bienvenida emocional y directo: “Cocinamos juntos, como en familia”.
 
-Presentación de talleres destacados (costillas, pan, tarta), cada uno con nombre, descripción corta, duración y tipo.
+Breve descripción del propósito: se destacan los talleres como espacios para aprender, disfrutar y conocer gente nueva.
 
-Botones funcionales y sistema de navegación accesible.
+Secciones visuales para los tres tipos de curso: Entrantes, Principal y Postres.
 
-Calendario interactivo con fechas destacadas.
+Bloque de información de contacto: ubicación (Plaza de Gracia 11, Granada), botones para compartir y redes sociales.
 
-Elementos en Rocketwildness para titulares y Roboto Flex para contenido principal.
-
-Este diseño permite una experiencia fluida y sencilla, centrada en la lectura clara y en el componente emocional: cocinar con y para otros.
 
 ![LandingPage](P3/Landing.pdf)
 
