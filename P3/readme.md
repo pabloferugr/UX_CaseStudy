@@ -7,5 +7,20 @@
 
 ## Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Claro, aquí tienes una versión **ligeramente más corta** y en **singular**, adaptada al contexto de README final de Case Study:
+
+---
+
+## 🧾 Conclusiones
+
+La realización de esta práctica ha permitido aplicar de forma estructurada todas las fases del diseño centrado en el usuario, desde la creación del moodboard hasta la simulación funcional mediante el mockup.
+
+Cada recurso ha sido documentado y enlazado correctamente en la carpeta `P3/`, con descripciones técnicas que justifican las decisiones visuales y de interfaz. La selección de tipografía, colores y patrones UI se ha realizado pensando en un público adulto y mayor, priorizando la accesibilidad, la claridad y el valor emocional de la experiencia.
+
+Destaco especialmente el uso coherente de herramientas como Figma, Coolors y sistemas tipográficos, que han facilitado la construcción de una identidad visual sólida.
+
+**Como valoración final**, considero que el resultado cumple los objetivos propuestos: ofrecer un entorno digital cálido, claro y funcional para promover la participación en talleres presenciales de cocina. La base visual y estructural queda lista para una fase de desarrollo posterior.
+
+---
+
+
