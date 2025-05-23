@@ -364,6 +364,8 @@ Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pan
 
 ![Layout](P3/Layout.pdf)
 
+No está funcionando el enlace porque tengo más proyectos de los permitidos en figma. Lo comparto por correo para que pueda acceder.
+
 ![Layout - Simulacion]([https://www.figma.com/proto/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=0-1&t=QOG82eqShQgu0UTx-1](https://www.figma.com/design/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=0-1&t=QOG82eqShQgu0UTx-1))
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
