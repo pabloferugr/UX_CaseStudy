@@ -7,7 +7,6 @@
 
 ## Conclusiones
 
-Claro, aquí tienes una versión **ligeramente más corta** y en **singular**, adaptada al contexto de README final de Case Study:
 
 ---
 
