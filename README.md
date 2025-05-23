@@ -18,6 +18,7 @@ Talleres gastronómicos donde el objetivo es divertirse, además de aprender nue
 Logotipo: 
 
 ![Logotipo](P3/logo.png)
+![Logotipo2](P3/logo2.png)
 
 Miembros:
  * :bust_in_silhouette:  Pablo Fernández Gallardo     :octocat:     [pabloferugr](https://github.com/pabloferugr)
