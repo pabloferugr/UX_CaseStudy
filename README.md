@@ -17,7 +17,7 @@ Talleres gastronómicos donde el objetivo es divertirse, además de aprender nue
 
 Logotipo: 
 
-![Logotipo](P2/Logotip.png)
+![Logotipo](P3/logo.png)
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
@@ -332,6 +332,8 @@ Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pan
 ![Método UX](img/moodboard.png)
 -----
 
+![MoodBoard](P3/MoodBoard.pdf)
+
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
@@ -341,12 +343,16 @@ Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pan
 ![Método UX](img/landing-page.png) 
 ----
 
+![LandingPage](P3/Landing.pdf)
+
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
+
+![GuideLines](P3/Guidelines.pdf)
 
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
@@ -362,6 +368,10 @@ Utilizo el plugin breakpoints de Figma para hacer el cambio de tamaño de la pan
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
+
+![Layout](P3/Layout.pdf)
+
+![Layout - Simulacion]([P3/Layout.pdf](https://www.figma.com/proto/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=2164-297&p=f&t=TmtYdOR6nFooTH4c-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2))
 
 >>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
