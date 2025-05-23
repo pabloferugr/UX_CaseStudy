@@ -414,7 +414,7 @@ Este mockup permite probar la experiencia real con stakeholders, recibir feedbac
 
 ![Layout](P3/Layout.pdf)
 
-![Layout - Simulacion](https://www.figma.com/design/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=2178-65444&t=8XBOcgWZlY5Mqen4-1)
+[Layout - Simulacion](https://www.figma.com/design/gyl0wKx41oVChxRt5Fv21A/Layout?node-id=2178-65444&t=8XBOcgWZlY5Mqen4-1)
 
 
 <br>
