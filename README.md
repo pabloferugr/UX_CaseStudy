@@ -425,17 +425,14 @@ Este mockup permite probar la experiencia real con stakeholders, recibir feedbac
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El caso A corresponde al rediseño web de Granada Bites, una propuesta de talleres gastronómicos presenciales orientados a un público adulto en la ciudad de Granada. El objetivo del proyecto es facilitar la participación en estas actividades, permitiendo consultar los talleres disponibles, visualizar el calendario actualizado y realizar reservas de forma sencilla desde una página web accesible, emocional y clara.
 
+La propuesta se inspira en valores como la convivencia intergeneracional, el placer por la cocina tradicional y el aprendizaje compartido. Estos conceptos se reflejan en el diseño visual mediante una paleta de colores cálidos y contrastados (blanco, negro, rojo y gris), tipografías legibles y una estructura que favorece la navegación en dispositivos móviles. Entre las secciones clave de la web se encuentran: página de inicio con talleres destacados, calendario interactivo, ficha informativa de cada actividad, formulario de reserva, y un bloque de contacto accesible para cualquier usuario.
 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuario         | Sexo / Edad      | Ocupación                  | Experiencia TIC | Personalidad | Plataforma | Caso | Posibles situaciones conflictivas                                                                                                                                                   |
+| --------------- | ---------------- | -------------------------- | --------------- | ------------ | ---------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **U1 - Clara**  | Mujer / 23 años  | Estudiante | Alta            | Introvertida | Móvil      | A    | Puede sentirse perdida si la jerarquía visual no está clara o si hay exceso de información. Le interesa el diseño y el contenido cultural, pero necesita una navegación muy guiada. |
+| **U2 - Andrés** | Hombre / 22 años | Estudiante     | Alta            | Racional     | Móvil      | A    | Requiere una estructura lógica. Si la navegación no sigue un orden claro o las funciones no están bien etiquetadas, puede sentirse confundido y abandonar la tarea.  
 
 
 ### 4.b Diseño de las pruebas 
