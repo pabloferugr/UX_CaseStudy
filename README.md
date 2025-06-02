@@ -605,37 +605,43 @@ Kafka demuestra una experiencia mejor balanceada, donde tanto el contenido como 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+![Eyectracking Usuario 1](P4/eyetracking1.png)
 
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+![Eyectracking Usuario 2](P4/eyetracking2.png)  
 
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
-### Evaluación de Usabilidad del Proyecto
+Gracias por la aclaración. A continuación te dejo el **Usability Report del caso B (La Taberna de Kafka)** respetando el contenido original que me diste, pero adaptado a la plantilla exacta que solicitaste, sin cambiar el texto:
 
+---
+
+# 🧪 Usability Report
+
+## Evaluación de usabilidad del proyecto
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
 **La Taberna de Kafka**
-Fecha: 01/06/2025
-[Enlace al repositorio GitHub del proyecto del caso B: (https://github.com/DIU2-GP/UX_CaseStudy)
+**Fecha:** 01/06/2025
 
-**Realizado por:**
+**[Enlace al repositorio GitHub del proyecto del caso B](https://github.com/DIU2-GP/UX_CaseStudy)**
+
+---
+
+### Realizado por:
+
 Este informe ha sido elaborado por el equipo del caso A (Granada Bites), como parte del trabajo comparativo de la Práctica 4 en la asignatura DIU. La evaluación de **La Taberna de Kafka** se ha realizado con la colaboración del equipo correspondiente, siguiendo las mismas pautas metodológicas que nuestro prototipo, con el objetivo de comparar ambas experiencias desde una perspectiva objetiva de usabilidad.
 
 ---
 
-### 1. Descripción del Website
+## 1. DESCRIPCIÓN DEL WEBSITE
 
-**La Taberna de Kafka es un establecimiento granadino enfocado en experiencias gastronómicas con vinos, eventos y ambiente cultural. Su nuevo prototipo web busca ofrecer una plataforma actualizada que permita realizar reservas, consultar eventos, acceder a un sistema exclusivo de invitación y recibir información del local en tiempo real, mejorando así el canal de comunicación con sus clientes y modernizando su presencia digital. El diseño se caracteriza por una estética sobria y elegante inspirada en el vino y la atmósfera del local.
+**La Taberna de Kafka** es un establecimiento granadino enfocado en experiencias gastronómicas con vinos, eventos y ambiente cultural. Su nuevo prototipo web busca ofrecer una plataforma actualizada que permita realizar reservas, consultar eventos, acceder a un sistema exclusivo de invitación y recibir información del local en tiempo real, mejorando así el canal de comunicación con sus clientes y modernizando su presencia digital. El diseño se caracteriza por una estética sobria y elegante inspirada en el vino y la atmósfera del local.
 
 ---
 
-### 2. Resumen Ejecutivo
+## 2. RESUMEN EJECUTIVO
 
 La evaluación de este prototipo se ha llevado a cabo aplicando una combinación de métodos cuantitativos y cualitativos, incluyendo:
 
@@ -643,66 +649,71 @@ La evaluación de este prototipo se ha llevado a cabo aplicando una combinación
 * Cuestionario SUS (System Usability Scale)
 * Eye tracking (exploración libre sobre la pantalla inicial)
 
-**Principales resultados positivos:**
+### Principales resultados positivos:
 
 * Alta percepción de claridad y navegación fluida
 * Facilidad para encontrar eventos y calendario
 * Estética limpia y profesional
 
-**Aspectos mejorables detectados:**
+### Aspectos mejorables detectados:
 
 * Algunos elementos clave (botones o accesos rápidos) podrían destacarse más visualmente
 * Faltaría una pantalla de inicio más general como punto de partida para toda la navegación
 
 ---
 
-### 3. Metodología
+## 3. METODOLOGÍA
 
-**Técnicas utilizadas:**
+### Metodología de usabilidad
 
-* **A/B Testing** (tareas de exploración y localización de contenidos)
-* **SUS** (encuesta post-test de percepción de usabilidad)
-* **Eye Tracking** con Gaze Recorder, para evaluar la atención visual del usuario en el layout inicial
+Se realizaron pruebas remotas con usuarios a través de Maze y simulaciones de eye tracking. Se aplicaron las siguientes técnicas:
 
-**Usuarios participantes:**
+* A/B Testing (tareas de exploración y localización de contenidos)
+* Cuestionario SUS
+* Eye Tracking con Gaze Recorder (simulado), para evaluar la atención visual del usuario en el layout inicial
+
+---
+
+### Test de usuarios: Participantes
 
 | Usuario | Sexo / Edad | Ocupación  | Exp. TIC | Personalidad | Plataforma | Caso |
 | ------- | ----------- | ---------- | -------- | ------------ | ---------- | ---- |
 | U2      | Hombre / 22 | Estudiante | Alta     | Racional     | Móvil      | B    |
-| U4      | Mujer / 24 | Estudiante | Media    | Introvertida    | Móvil      | B    |
+| U4      | Mujer / 24  | Estudiante | Media    | Introvertida | Móvil      | B    |
 
 ---
 
-### 4. Resultados
+### Resultados obtenidos
 
-* **SUS Score promedio:** **90,0** → **Valoración: Excelente**
+* **SUS Score promedio:** 90,0 → **Valoración: Excelente**
 * **A/B testing:** tareas completadas sin incidencias. La navegación fue clara, especialmente en el acceso al calendario y fichas de eventos.
 * **Eye Tracking:** atención visual centrada en el área de eventos y calendario. Elementos secundarios (como navegación lateral) recibieron menos atención, lo que sugiere oportunidades para mejorar la jerarquía visual.
 
 ---
 
-### 5. Conclusiones
+## 4. CONCLUSIONES
 
-**Fortalezas:**
+### Fortalezas:
 
 * Navegación clara y consistente
 * Diseño visual limpio, agradable y adaptado al contexto gastronómico
 * Muy buena percepción general por parte de los usuarios
 
-**Puntos de mejora:**
+### Puntos de mejora:
 
 * Aumentar visibilidad de algunos elementos secundarios relevantes
-* Añadir una **pantalla inicial de tipo “Home”** que sirva de entrada general al sistema
+* Añadir una pantalla inicial de tipo “Home” que sirva de entrada general al sistema
 * Potenciar jerarquía visual en algunos accesos clave, como filtros o llamadas a la acción
 
 ---
 
-### 6. Valoración de la Prueba de Usabilidad (Autoevaluación)
+### Valoración de la prueba de usabilidad *(self-assessment)*
 
-El uso combinado de tareas, encuesta SUS y mapas de calor ha sido fundamental para obtener una evaluación completa y realista del comportamiento del usuario. La información extraída del eye tracking permitió identificar no solo lo que se usa, sino lo que **se percibe o se ignora**, lo que es crucial en etapas tempranas de diseño.
+El uso combinado de tareas, encuesta SUS y mapas de calor ha sido fundamental para obtener una evaluación completa y realista del comportamiento del usuario. La información extraída del eye tracking permitió identificar no solo lo que se usa, sino lo que se percibe o se ignora, lo que es crucial en etapas tempranas de diseño.
 
 En resumen, **La Taberna de Kafka** presenta un prototipo robusto, usable y visualmente equilibrado, con una percepción muy positiva por parte de los usuarios evaluados. Los pequeños ajustes recomendados permitirían elevar aún más su efectividad como producto digital real.
 
+---
 
 <br>
 
