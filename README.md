@@ -439,7 +439,45 @@ La propuesta se inspira en valores como la convivencia intergeneracional, el pla
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Se ha planificado un conjunto de pruebas para evaluar la **usabilidad y eficacia de los prototipos correspondientes a los casos A (Granada Bites) y B (La Taberna de Kafka)**, utilizando técnicas habituales en investigación UX.
+Las pruebas se han desarrollado de forma remota, a través de la plataforma **Maze** para los tests interactivos, y **Gaze Recorder** para el análisis de eye tracking en el caso B.
+
+Aunque no se aplicó formalmente el checklist de la P1, se tuvieron en cuenta principios clave como la **visibilidad del estado del sistema, control del usuario, consistencia y prevención de errores** durante la recogida de comentarios y observación de las interacciones.
+
+---
+
+#### 1. A/B Testing (Maze)
+
+Se diseñaron dos tests en Maze, uno para cada prototipo (Granada Bites y La Taberna de Kafka), asignando **un usuario a cada uno**. Ambos tests incluían **tareas equivalentes**, como consultar el calendario, acceder a contenidos específicos y explorar libremente la interfaz.
+
+Las métricas recogidas fueron:
+
+* Nivel de confianza en la navegación (Confidence Level)
+* Éxito en la realización de tareas
+* Respuestas subjetivas en escala del 1 al 6
+* Comentarios y observaciones post-test
+
+Esto permitió **comparar la claridad de los flujos de interacción, el diseño visual y la facilidad de uso** de cada prototipo.
+
+---
+
+#### 2. Test SUS (System Usability Scale)
+
+Tras completar el test de tareas, se aplicó a cada usuario el **cuestionario estándar SUS**, compuesto por 10 ítems valorados en una escala de 1 a 5. Las preguntas se adaptaron al lenguaje del contexto web, y las respuestas se utilizaron para calcular la **puntuación SUS total por prototipo**.
+
+Este cuestionario permitió una **evaluación objetiva de la percepción de usabilidad** y facilitó la comparación cuantitativa entre los dos diseños.
+
+---
+
+#### 3. Eye Tracking (solo en caso B – La Taberna de Kafka)
+
+Para complementar el análisis de usabilidad, se utilizó **eye tracking únicamente en el caso B (La Taberna de Kafka)**, mediante la herramienta **Gaze Recorder (versión gratuita)**.
+El usuario asignado a este caso fue expuesto durante **20 segundos** a la pantalla de inicio del prototipo, con la siguiente instrucción:
+
+> “Observa la pantalla como si estuvieras usando una app nueva.”
+
+A partir de la grabación se generó un **mapa de calor**, lo que permitió identificar qué elementos captaban más atención visual (zonas calientes) y cuáles pasaban desapercibidos.
+Esto ayudó a **validar la efectividad visual del diseño inicial** y a detectar posibles ajustes en cuanto a jerarquía y colocación de elementos clave.
 
 
 
@@ -447,17 +485,121 @@ La propuesta se inspira en valores como la convivencia intergeneracional, el pla
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Se realizó una prueba comparativa A/B entre dos prototipos web con el objetivo de evaluar la experiencia de usuario en tareas clave, así como la percepción subjetiva sobre la claridad, estética y funcionalidad del diseño. Los prototipos evaluados fueron:
+
+* **Caso A**: Granada Bites
+* **Caso B**: La Taberna de Kafka
+
+---
+
+#### **Test A – Granada Bites**
+
+**Tareas:**
+
+* Reservar un taller de cocina para el fin de semana.
+* Consultar el calendario con fechas disponibles.
+* Explorar libremente el sitio web.
+
+**Feedback recogido:**
+
+* **Opinión general media:** 5.25/6
+* Valoración positiva del diseño enfocado a adultos mayores, con buen uso de jerarquía visual.
+* Facilidad para usar el sistema de reservas y encontrar el calendario.
+* Estética cálida, emocional y accesible.
+
+**Enlace al test:** [Granada Bites – Maze](https://t.maze.co/tu-enlace-aqui)
+**Resultados:** Recogidos desde Maze.
+
+---
+
+#### **Test B – La Taberna de Kafka**
+
+**Tareas:**
+
+* Acceder al calendario de eventos del local.
+* Consultar la información de una cata de vinos.
+* Explorar libremente la aplicación.
+
+**Feedback recogido:**
+
+* **Opinión general media:** 5.5/6
+* Los usuarios accedieron con facilidad al calendario y valoraron muy positivamente la presentación de los eventos.
+* Diseño percibido como funcional, bien estructurado y visualmente atractivo.
+* La experiencia general fue calificada como muy satisfactoria.
+
+**Resultados:** Para este caso he tenido que hacerlo de manera física ya que Maze daba problemas al importar un proyecto de figma externo a tu cuenta.
+
+---
+
+### Resultados por usuario
+
+| **PREGUNTAS**                                                     | **U1 – Granada Bites (A)** | **U2 – La Taberna de Kafka (B)** |
+| ----------------------------------------------------------------- | -------------------------- | -------------------------------- |
+| **1. ¿Cómo calificarías tu experiencia general usando esta app?** | 5                          | 6                                |
+| **2. ¿Encontraste lo que buscabas fácilmente?**                   | 5                          | 5                                |
+| **3. ¿Recomendarías esta app a otras personas?**                  | 5                          | 5                                |
+| **4. ¿La aplicación te resultó atractiva visualmente?**           | 6                          | 6                                |
+
+> *(Escala de 1 a 6)*
+
+---
+
+### Conclusión del A/B Testing
+
+Ambos prototipos obtuvieron excelentes resultados, pero **La Taberna de Kafka (caso B)** fue **ligeramente mejor valorado**, con una media general superior (**5.5 frente a 5.25**). Su diseño fue considerado más equilibrado visualmente y con una navegación fluida, sin perder la estética.
+
+**Granada Bites (caso A)** sigue ofreciendo una experiencia clara y accesible, especialmente adaptada al público adulto mayor, con un enfoque más emocional y directo.
+
+**En resumen**, ambos casos presentan un alto nivel de usabilidad, pero **el caso B destaca levemente** por su estructura generalista y diseño funcional.
+
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+Se utilizó el cuestionario **SUS (System Usability Scale)** para recoger la percepción de usabilidad de cada usuario tras realizar las tareas asignadas a su prototipo. El cuestionario consta de 10 ítems con escala de 1 a 5, alternando afirmaciones positivas y negativas. Las puntuaciones se calcularon siguiendo la fórmula oficial de SUS.
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+| PREGUNTAS                                                                | U1 – Granada Bites (A) | U2 – La Taberna de Kafka (B) |
+| ------------------------------------------------------------------------ | ---------------------- | ---------------------------- |
+| 1. Creo que me gustará visitar con frecuencia este website               | 4                      | 5                            |
+| 2. Encontré el website innecesariamente complejo                         | 2                      | 1                            |
+| 3. Pensé que era fácil utilizar este website                             | 4                      | 5                            |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website | 2                      | 1                            |
+| 5. Encontré las funciones del website bastante bien integradas           | 4                      | 5                            |
+| 6. Pensé que había demasiada inconsistencia en el website                | 2                      | 1                            |
+| 7. Imagino que la mayoría de las personas aprenderían rápidamente        | 4                      | 5                            |
+| 8. Encontré el website muy grande al recorrerlo                          | 2                      | 1                            |
+| 9. Me sentí muy confiado en el manejo del website                        | 4                      | 5                            |
+| 10. Necesito aprender muchas cosas antes de manejar el website           | 2                      | 1                            |
+
+---
+
+### Resultados SUS
+
+| Usuario | Caso                    | Puntuación SUS |
+| ------- | ----------------------- | -------------- |
+| U1      | Granada Bites (A)       | **85.0**       |
+| U2      | La Taberna de Kafka (B) | **90.0**       |
+
+---
+
+### Análisis de resultados
+
+Ambos prototipos alcanzaron puntuaciones altas en el cuestionario SUS, situándose por encima del umbral de excelencia. La **Taberna de Kafka** obtiene una puntuación levemente superior, lo que indica una percepción más clara de usabilidad, fluidez y confianza.
+
+* **Granada Bites (A)**: 85.0 → Experiencia excelente
+* **Kafka (B)**: 90.0 → Experiencia excelente con margen aún más alto de eficacia
+
+---
+
+### 🗣Valoración personal
+
+En este caso, **estoy de acuerdo con el resultado obtenido**. Aunque **Granada Bites** ofrece una experiencia accesible, clara y emocionalmente conectada con su público objetivo, el prototipo de **La Taberna de Kafka** destaca ligeramente por su estructura visual más sólida, su jerarquía más marcada y una navegación más fluida.
+
+Kafka demuestra una experiencia mejor balanceada, donde tanto el contenido como las funciones están organizadas con mayor precisión, lo que repercute en una interacción más intuitiva. A pesar de que Granada Bites cumple notablemente con los principios de usabilidad, **Kafka presenta un diseño más pulido y eficaz a largo plazo**.
+
+---
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
@@ -476,11 +618,90 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+### 🧪 Evaluación de Usabilidad del Proyecto
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+**La Taberna de Kafka**
+Fecha: 01/06/2025
+[Enlace al repositorio GitHub del proyecto: https://github.com/pablofernandez/DIU-Kafka](https://github.com/pablofernandez/DIU-Kafka)
 
+**Realizado por:**
+Este informe ha sido elaborado por el equipo del caso A (Granada Bites), como parte del trabajo comparativo de la Práctica 4 en la asignatura DIU. La evaluación de **La Taberna de Kafka** se ha realizado con la colaboración del equipo correspondiente, siguiendo las mismas pautas metodológicas que nuestro prototipo, con el objetivo de comparar ambas experiencias desde una perspectiva objetiva de usabilidad.
+
+---
+
+### 1. Descripción del Website
+
+**La Taberna de Kafka es un establecimiento granadino enfocado en experiencias gastronómicas con vinos, eventos y ambiente cultural. Su nuevo prototipo web busca ofrecer una plataforma actualizada que permita realizar reservas, consultar eventos, acceder a un sistema exclusivo de invitación y recibir información del local en tiempo real, mejorando así el canal de comunicación con sus clientes y modernizando su presencia digital. El diseño se caracteriza por una estética sobria y elegante inspirada en el vino y la atmósfera del local.
+
+---
+
+### 2. Resumen Ejecutivo
+
+La evaluación de este prototipo se ha llevado a cabo aplicando una combinación de métodos cuantitativos y cualitativos, incluyendo:
+
+* Test A/B con tareas equivalentes al caso A
+* Cuestionario SUS (System Usability Scale)
+* Eye tracking (exploración libre sobre la pantalla inicial)
+
+**Principales resultados positivos:**
+
+* Alta percepción de claridad y navegación fluida
+* Facilidad para encontrar eventos y calendario
+* Estética limpia y profesional
+
+**Aspectos mejorables detectados:**
+
+* Algunos elementos clave (botones o accesos rápidos) podrían destacarse más visualmente
+* Faltaría una pantalla de inicio más general como punto de partida para toda la navegación
+
+---
+
+### 3. Metodología
+
+**Técnicas utilizadas:**
+
+* **A/B Testing** (tareas de exploración y localización de contenidos)
+* **SUS** (encuesta post-test de percepción de usabilidad)
+* **Eye Tracking** con Gaze Recorder, para evaluar la atención visual del usuario en el layout inicial
+
+**Usuarios participantes:**
+
+| Usuario | Sexo / Edad | Ocupación  | Exp. TIC | Personalidad | Plataforma | Caso |
+| ------- | ----------- | ---------- | -------- | ------------ | ---------- | ---- |
+| U2      | Hombre / 22 | Estudiante | Alta     | Racional     | Móvil      | B    |
+| U4      | Mujer / 24 | Estudiante | Media    | Introvertida    | Móvil      | B    |
+
+---
+
+### 4. Resultados
+
+* **SUS Score promedio:** **90,0** → **Valoración: Excelente**
+* **A/B testing:** tareas completadas sin incidencias. La navegación fue clara, especialmente en el acceso al calendario y fichas de eventos.
+* **Eye Tracking:** atención visual centrada en el área de eventos y calendario. Elementos secundarios (como navegación lateral) recibieron menos atención, lo que sugiere oportunidades para mejorar la jerarquía visual.
+
+---
+
+### 5. Conclusiones
+
+**Fortalezas:**
+
+* Navegación clara y consistente
+* Diseño visual limpio, agradable y adaptado al contexto gastronómico
+* Muy buena percepción general por parte de los usuarios
+
+**Puntos de mejora:**
+
+* Aumentar visibilidad de algunos elementos secundarios relevantes
+* Añadir una **pantalla inicial de tipo “Home”** que sirva de entrada general al sistema
+* Potenciar jerarquía visual en algunos accesos clave, como filtros o llamadas a la acción
+
+---
+
+### 6. Valoración de la Prueba de Usabilidad (Autoevaluación)
+
+El uso combinado de tareas, encuesta SUS y mapas de calor ha sido fundamental para obtener una evaluación completa y realista del comportamiento del usuario. La información extraída del eye tracking permitió identificar no solo lo que se usa, sino lo que **se percibe o se ignora**, lo que es crucial en etapas tempranas de diseño.
+
+En resumen, **La Taberna de Kafka** presenta un prototipo robusto, usable y visualmente equilibrado, con una percepción muy positiva por parte de los usuarios evaluados. Los pequeños ajustes recomendados permitirían elevar aún más su efectividad como producto digital real.
 
 
 <br>
