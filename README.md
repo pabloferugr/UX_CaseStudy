@@ -618,7 +618,7 @@ Kafka demuestra una experiencia mejor balanceada, donde tanto el contenido como 
 ![Método UX](img/usability-report.png) 
 -----
 
-### 🧪 Evaluación de Usabilidad del Proyecto
+### Evaluación de Usabilidad del Proyecto
 
 **La Taberna de Kafka**
 Fecha: 01/06/2025
