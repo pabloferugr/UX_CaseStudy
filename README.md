@@ -507,7 +507,7 @@ Se realizó una prueba comparativa A/B entre dos prototipos web con el objetivo 
 * Facilidad para usar el sistema de reservas y encontrar el calendario.
 * Estética cálida, emocional y accesible.
 
-**Enlace al test:** [Granada Bites – Maze](https://t.maze.co/tu-enlace-aqui)
+**Enlace al test:** [Granada Bites – Maze](https://app.maze.co/report/Granada-Bites/3mean7mbeemv0y/intro)
 **Resultados:** Recogidos desde Maze.
 
 ---
@@ -622,7 +622,7 @@ Kafka demuestra una experiencia mejor balanceada, donde tanto el contenido como 
 
 **La Taberna de Kafka**
 Fecha: 01/06/2025
-[Enlace al repositorio GitHub del proyecto: https://github.com/pablofernandez/DIU-Kafka](https://github.com/pablofernandez/DIU-Kafka)
+[Enlace al repositorio GitHub del proyecto: https://github.com/pablofernandez/DIU-Kafka](https://github.com/DIU2-GP/UX_CaseStudy)
 
 **Realizado por:**
 Este informe ha sido elaborado por el equipo del caso A (Granada Bites), como parte del trabajo comparativo de la Práctica 4 en la asignatura DIU. La evaluación de **La Taberna de Kafka** se ha realizado con la colaboración del equipo correspondiente, siguiendo las mismas pautas metodológicas que nuestro prototipo, con el objetivo de comparar ambas experiencias desde una perspectiva objetiva de usabilidad.
