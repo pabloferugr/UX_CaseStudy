@@ -431,7 +431,7 @@ La propuesta se inspira en valores como la convivencia intergeneracional, el pla
 
 | Usuario         | Sexo / Edad      | Ocupación                  | Experiencia TIC | Personalidad | Plataforma | Caso | Posibles situaciones conflictivas                                                                                                                                                   |
 | --------------- | ---------------- | -------------------------- | --------------- | ------------ | ---------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **U1 - Clara**  | Mujer / 23 años  | Estudiante | Alta            | Introvertida | Móvil      | A    | Puede sentirse perdida si la jerarquía visual no está clara o si hay exceso de información. Le interesa el diseño y el contenido cultural, pero necesita una navegación muy guiada. |
+| **U1 - Clara**  | Mujer / 24 años  | Estudiante | Alta            | Introvertida | Móvil      | A    | Puede sentirse perdida si la jerarquía visual no está clara o si hay exceso de información. Le interesa el diseño y el contenido cultural, pero necesita una navegación muy guiada. |
 | **U2 - Andrés** | Hombre / 22 años | Estudiante     | Alta            | Racional     | Móvil      | A    | Requiere una estructura lógica. Si la navegación no sigue un orden claro o las funciones no están bien etiquetadas, puede sentirse confundido y abandonar la tarea.  
 
 
@@ -605,20 +605,54 @@ Kafka demuestra una experiencia mejor balanceada, donde tanto el contenido como 
 ![Método UX](img/eye-tracking.png)
 ----
 
+* La **primera imagen (eyetracking1.png)** corresponde al **usuario femenino (Clara)**.
+
 ![Eyectracking Usuario 1](P4/eyetracking1.png)
 
+---
+
+### **Usuario femenino (Clara) – eyetracking1**
+
+* **Alta atención** en la imagen del plato principal y en las estrellas de valoración, lo que indica un enfoque más emocional y visual.
+* Se fija también en el título “Cocina Americana” y en la estética del texto.
+* El botón de **“Disponibilidad”** capta atención, pero no de forma prioritaria.
+* La navegación inferior no recibe casi atención.
+
+*Interpretación:* Clara, siendo introvertida y visualmente sensible, se siente atraída por lo estético y lo emocional del contenido (imagen, estrellas, tipografía). Su navegación es más contemplativa.
+
+---
+
+* La **segunda imagen (eyetracking2.png)** corresponde al **usuario masculino (Andrés)**.
+
 ![Eyectracking Usuario 2](P4/eyetracking2.png)  
+
+### **Usuario masculino (Andrés) – eyetracking2**
+
+* **Alta atención** tanto en la imagen del plato como en el botón de **“Disponibilidad”**.
+* Se centra en el contenido textual: descripción del taller y duración.
+* Los elementos funcionales (iconos, menú inferior) tienen más atención que en el caso anterior.
+* Menos foco en lo puramente decorativo (estrellas, categorías superiores).
+
+*Interpretación:* Andrés, con un perfil racional, se orienta a la funcionalidad: busca información clave y puntos de interacción directa. Navega de forma más estructurada.
+
+---
+
+### **Resumen comparativo**
+
+| Elemento               | Clara (Femenino) 🌸 | Andrés (Masculino) 🧠 |
+| ---------------------- | ------------------- | --------------------- |
+| Imagen del plato       |  Alta atención    |  Alta atención      |
+| Estrellas y título     |  Alta atención    |  Atención media     |
+| Texto descriptivo      |  Media            |  Alta atención      |
+| Botón “Disponibilidad” |  Media            |  Alta atención      |
+| Menú inferior          | ❄ Baja             |  Media              |
+
+Ambos perfiles validan el diseño, pero destacan diferencias en la prioridad: **Clara valora más lo visual y emocional**, mientras que **Andrés prioriza la funcionalidad y la acción**. Esto refleja una buena adaptabilidad del diseño a distintos tipos de usuario.
 
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
-
-Gracias por la aclaración. A continuación te dejo el **Usability Report del caso B (La Taberna de Kafka)** respetando el contenido original que me diste, pero adaptado a la plantilla exacta que solicitaste, sin cambiar el texto:
-
----
-
-# 🧪 Usability Report
 
 ## Evaluación de usabilidad del proyecto
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
