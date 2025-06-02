@@ -639,13 +639,13 @@ Kafka demuestra una experiencia mejor balanceada, donde tanto el contenido como 
 
 ### **Resumen comparativo**
 
-| Elemento               | Clara (Femenino) 🌸 | Andrés (Masculino) 🧠 |
+| Elemento               | Clara (Femenino)  | Andrés (Masculino)  |
 | ---------------------- | ------------------- | --------------------- |
 | Imagen del plato       |  Alta atención    |  Alta atención      |
 | Estrellas y título     |  Alta atención    |  Atención media     |
 | Texto descriptivo      |  Media            |  Alta atención      |
 | Botón “Disponibilidad” |  Media            |  Alta atención      |
-| Menú inferior          | ❄ Baja             |  Media              |
+| Menú inferior          |  Baja             |  Media              |
 
 Ambos perfiles validan el diseño, pero destacan diferencias en la prioridad: **Clara valora más lo visual y emocional**, mientras que **Andrés prioriza la funcionalidad y la acción**. Esto refleja una buena adaptabilidad del diseño a distintos tipos de usuario.
 
